@@ -570,7 +570,7 @@ var _0x779960 = _0x255f;
                 return (
                     _0x6d6606[_0x42ab77(0x2b5)]({
                         type: _0x42ab77(0x242),
-                        url: "mail-contact.php",
+                        url: "https://script.google.com/macros/s/AKfycby-9MQcOHB9nhI3wvKwe8-IL672WuJ6bgd4u9OY2BszyCPi6TRhkywmww_g4THhORgh/exec",
                         data: _0x6d6606(_0x436f9e)[_0x42ab77(0x1e9)](),
                         success: function () {
                             var _0x296e07 = _0x42ab77;

@@ -7510,6 +7510,10 @@ wpo-hero-slider-s4
   font-size: 18px;
 }
 
+textarea.message {
+  height: auto !important;
+}
+
 .wpo-contact-section .wpo-contact-section-wrapper .wpo-contact-form-area .form-control:focus,
 .wpo-contact-section-s2 .wpo-contact-section-wrapper .wpo-contact-form-area .form-control:focus,
 .wpo-contact-section-s3 .wpo-contact-section-wrapper .wpo-contact-form-area .form-control:focus,
