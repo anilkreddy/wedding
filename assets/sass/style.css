@@ -10966,7 +10966,7 @@ textarea.message {
   -webkit-transform: skewY(-4deg);
           transform: skewY(-4deg);
   content: "";
-  z-index: 11;
+  z-index: 10;
 }
 
 .wpo-story-section-s3 .wpo-story-wrap .wpo-story-item .wpo-story-img-wrap .wpo-story-img {
