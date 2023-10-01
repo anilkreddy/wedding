@@ -1532,7 +1532,7 @@ a.ui-button:active, .ui-button:active,
 
 .blog-sidebar .wpo-contact-widget {
   border: 0;
-  background: url(../images/bg-2.html) no-repeat center center;
+  background: url(bg-2.html) no-repeat center center;
   position: relative;
   background-size: cover;
   z-index: 1;
@@ -1566,7 +1566,7 @@ a.ui-button:active, .ui-button:active,
 
 .blog-sidebar .wpo-contact-widget h2::before {
   left: 28px;
-  background: url(../images/Single-title-shape2.html) no-repeat right center;
+  background: url(Single-title-shape2.html) no-repeat right center;
 }
 
 .blog-sidebar .wpo-contact-widget p {
@@ -14661,7 +14661,7 @@ textarea.message {
 
 .service-sidebar .wpo-contact-widget {
   border: 0;
-  background: url(../images/bg-2.html) no-repeat center center;
+  background: url(bg-2.html) no-repeat center center;
   position: relative;
   background-size: cover;
   z-index: 1;
