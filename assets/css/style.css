@@ -4805,7 +4805,7 @@ wpo-hero-slider-s4
 
 @media (max-width: 991px) {
   .static-hero-s2 h2 {
-    font-size: 30px;
+    font-size: 60px;
     line-height: 60px;
   }
 }
@@ -4820,13 +4820,13 @@ wpo-hero-slider-s4
 @media (max-width: 575px) {
   .static-hero-s2 h2 {
     font-size: 20px;
-    line-height: 35px;
+    line-height: 80px;
   }
 }
 
 @media (max-width: 450px) {
   .static-hero-s2 h2 {
-    font-size: 18px;
+    font-size: 60px;
   }
 }
 
