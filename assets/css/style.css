@@ -9607,6 +9607,7 @@ textarea.message {
   opacity: 0;
   text-align: center;
   width: 260px;
+  cursor: pointer;
 }
 
 .wpo-portfolio-section-s2 .portfolio-grids .grid .img-holder .hover-content span,

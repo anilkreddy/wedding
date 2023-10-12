@@ -737,6 +737,11 @@ function _0x255f(_0x397a84, _0x504a44) {
             _0x255f(_0x397a84, _0x504a44)
     );
 }
+
+Fancybox.bind('[data-fancybox="gallery"]', {
+    //
+});
+
 function _0x5918() {
     var _0x411262 = [
         "val",
