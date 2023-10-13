@@ -9939,6 +9939,23 @@ textarea.message {
   }
 }
 
+.add-to-calendar {
+  position: relative;
+  left: 105px;
+}
+
+@media (max-width: 1399px) {
+  .add-to-calendar {
+    left: 40px;
+  }
+}
+
+@media (width <= 575px) {
+  .add-to-calendar {
+    left: 5px;
+  }
+}
+
 .wpo-contact-section-s3 .contact-img .rsvp-info,
 .wpo-contact-section-s4 .contact-img .rsvp-info,
 .wpo-contact-section-s5 .contact-img .rsvp-info {
